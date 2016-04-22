@@ -1,0 +1,48 @@
+.head {
+	
+	text-align: center;
+	font-weight: bold;
+	border: 4px solid #000000;
+	background-color:#C0C0C0;
+
+}
+.head p {
+	display: inline-block;
+	padding: 20px;
+	
+}
+
+button {
+   display: table;
+   margin: 0 auto
+}
+
+.Content {
+	display: none;
+	background-color:#C0C0C0;
+	border: 4px solid #000000;
+	text-align: center;
+}
+
+.Content h2 {
+	font-style:bolder;
+	text-decoration:underline;
+}
+
+.Content p {
+	font-style:italic;
+}
+.Content li {
+	list-style-type: none;
+}
+
+.End {
+	display: none;
+	background-color:#C0C0C0;
+	border: 4px solid #000000;
+	text-align: center;
+}
+
+.End li {
+	list-style-type: none;
+}
